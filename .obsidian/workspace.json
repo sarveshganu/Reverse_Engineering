@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "76e760ba07ae8bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aefbb1de21426545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90f9aa5ff75b2f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thecyberexpert/BInaryExploitation/Arbitrary Read using Format String Vulnerability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arbitrary Read using Format String Vulnerability"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbcaf66d32da4a21",
+    "type": "split",
+    "children": [
+      {
+        "id": "239d4b8720718ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e2781a175a03a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64bee7dd38afb1ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d665e50cecd2a26e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2730a6130fe5dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a46dd4ba66ec64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d2f1b71aa71fd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "thecyberexpert/BInaryExploitation/Arbitrary Read using Format String Vulnerability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arbitrary Read using Format String Vulnerability"
+            }
+          },
+          {
+            "id": "5d17a0f42240f559",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "thecyberexpert/BInaryExploitation/Arbitrary Read using Format String Vulnerability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arbitrary Read using Format String Vulnerability"
+            }
+          },
+          {
+            "id": "10321b2e127ca87b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ad6ff758734fd15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "thecyberexpert/BInaryExploitation/Arbitrary Read using Format String Vulnerability.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Arbitrary Read using Format String Vulnerability"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f90f9aa5ff75b2f7",
+  "lastOpenFiles": [
+    "thecyberexpert/BInaryExploitation/Arbitrary Write using Format string vulnerability.md",
+    "README.md",
+    "thecyberexpert/BInaryExploitation/Arbitrary Read using Format String Vulnerability.md",
+    "thecyberexpert/BInaryExploitation/Command Injection.md",
+    "thecyberexpert/BInaryExploitation/Format String Vulnerability.md",
+    "thecyberexpert/BInaryExploitation/PLT and GOT table.md",
+    "thecyberexpert/BInaryExploitation/Assets/Pasted image 20250518230427.png"
+  ]
+}
